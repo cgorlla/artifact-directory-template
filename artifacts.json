@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/cgorlla/intel-capstone-submission.git",
+    "project-repository": "https://github.com/cgorlla/intel-sur.git",
+    "dockerhub-repository": "cgorlla/intel-sur:latest",
+    "project-website-url": "https://cgorlla.github.io/intel-sur-site/",
+    "project-website-code": "https://github.com/cgorlla/intel-sur-site.git"
 }
